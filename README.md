@@ -1,4 +1,4 @@
-![](https://kartinki.pibig.info/uploads/posts/2023-04/1681356141_kartinki-pibig-info-p-goryashchii-noutbuk-kartinka-arti-instagra-34.jpg)
+![](https://github.com/lma2023/lma2023/commit/33ffd62738f5971b27dfd260fe1c77d02ac6f79b)
 ### Quality Assurance Specialist
 
 Test cases for web application [https://clientbase.us/v1]:
